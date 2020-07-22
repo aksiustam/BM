@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2012\Projects\153301021_bm\153301021_bm\bin\Debug\153301021_bm.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\153301021_bm\153301021_bm\obj\Debug\153301021_bm.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\153301021_bm\153301021_bm\obj\Debug\_153301021_bm.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\153301021_bm\153301021_bm\obj\Debug\_153301021_bm.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\153301021_bm\153301021_bm\obj\Debug\153301021_bm.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\153301021_bm\153301021_bm\bin\Debug\153301021_bm.exe
+c:\users\pc\documents\visual studio 2012\Projects\153301021_bm\153301021_bm\bin\Debug\153301021_bm.pdb
+c:\users\pc\documents\visual studio 2012\Projects\153301021_bm\153301021_bm\obj\Debug\153301021_bm.exe
+c:\users\pc\documents\visual studio 2012\Projects\153301021_bm\153301021_bm\obj\Debug\153301021_bm.pdb
